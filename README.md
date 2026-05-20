@@ -1,1 +1,1 @@
-# BlazorAppProjetc
+# NET-Blazor-Application
