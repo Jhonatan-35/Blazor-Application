@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Impoeksa\\Desktop\\NET-Blazor-Application\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Impoeksa\\Desktop\\NET-Blazor-Application\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Impoeksa\\Desktop\\NET-Blazor-Application\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\Impoeksa\\Desktop\\NET-Blazor-Application\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\Impoeksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Impoeksa\\Desktop\\NET-Blazor-Application\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Impoeksa\\AppData\\Roaming\\NuGet\\NuGet.Config"

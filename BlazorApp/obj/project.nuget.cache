@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yHEzL8PvxyQ=",
+  "dgSpecHash": "mJhDBha4Ja0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Impoeksa\\Desktop\\NET-Blazor-Application\\BlazorApp\\BlazorApp.csproj",
+  "projectFilePath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazorApp\\BlazorApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.7\\microsoft.aspnetcore.app.internal.assets.10.0.7.nupkg.sha512"
   ],
