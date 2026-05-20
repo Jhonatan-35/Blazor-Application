@@ -1,1 +1,1 @@
-# NET-Blazor-Application
+# Blazor-Application
