@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "2OP7X8ILR/8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\ProjectBlazor\\ProjectBlazor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.7\\microsoft.aspnetcore.authorization.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.7\\microsoft.aspnetcore.components.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\10.0.7\\microsoft.aspnetcore.components.analyzers.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\10.0.7\\microsoft.aspnetcore.components.forms.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.components.web\\10.0.7\\microsoft.aspnetcore.components.web.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.aspnetcore.metadata\\10.0.7\\microsoft.aspnetcore.metadata.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.7\\microsoft.extensions.configuration.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.7\\microsoft.extensions.configuration.binder.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.7\\microsoft.extensions.dependencyinjection.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.diagnostics\\10.0.7\\microsoft.extensions.diagnostics.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\10.0.7\\microsoft.extensions.diagnostics.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.7\\microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.options\\10.0.7\\microsoft.extensions.options.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\10.0.7\\microsoft.extensions.options.configurationextensions.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.7\\microsoft.extensions.primitives.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.extensions.validation\\10.0.7\\microsoft.extensions.validation.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\microsoft.jsinterop\\10.0.7\\microsoft.jsinterop.10.0.7.nupkg.sha512",
+    "C:\\Users\\Impoeksa\\.nuget\\packages\\myclasslibrary\\1.0.0.2\\myclasslibrary.1.0.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "El paquete \"MyClassLibrary 1.0.0.2\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1\" en lugar de la plataforma de destino del proyecto \"net10.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "projectPath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\ProjectBlazor\\ProjectBlazor.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\ProjectBlazor\\ProjectBlazor.csproj",
+      "libraryId": "MyClassLibrary",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

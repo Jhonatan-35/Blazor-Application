@@ -1,0 +1,9 @@
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ProjectBlazor.csproj.AssemblyReference.cache
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ProjectBlazor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ProjectBlazor.AssemblyInfoInputs.cache
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ProjectBlazor.AssemblyInfo.cs
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ProjectBlazor.csproj.CoreCompileInputs.cache
+C:\Users\Impoeksa\Desktop\Blazor-Application\ProjectBlazor\obj\Debug\net10.0\ProjectBlazor.sourcelink.json
