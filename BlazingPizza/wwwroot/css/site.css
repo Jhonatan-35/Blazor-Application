@@ -8,7 +8,7 @@ body {
     padding-top: 5rem;
     flex-direction: column;
     font-family: 'quicksand';
-    overflow-y: hidden;
+    
 }
 
 form {
@@ -141,7 +141,7 @@ form {
 
 .pizza-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fill, 20rem);
+    grid-template-columns: repeat(3, 20rem);
     grid-gap: 2rem;
     justify-content: center;
     padding-left: 0;

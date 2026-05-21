@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Impoeksa\\Desktop\\BlazingPizza\\BlazingPizza.csproj": {}
+    "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazingPizza\\BlazingPizza.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Impoeksa\\Desktop\\BlazingPizza\\BlazingPizza.csproj": {
+    "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazingPizza\\BlazingPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Impoeksa\\Desktop\\BlazingPizza\\BlazingPizza.csproj",
+        "projectUniqueName": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazingPizza\\BlazingPizza.csproj",
         "projectName": "BlazingPizza",
-        "projectPath": "C:\\Users\\Impoeksa\\Desktop\\BlazingPizza\\BlazingPizza.csproj",
+        "projectPath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazingPizza\\BlazingPizza.csproj",
         "packagesPath": "C:\\Users\\Impoeksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Impoeksa\\Desktop\\BlazingPizza\\obj\\",
+        "outputPath": "C:\\Users\\Impoeksa\\Desktop\\Blazor-Application\\BlazingPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Impoeksa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -43,6 +43,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-*, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0-*, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[9.0.0-*, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
