@@ -29,14 +29,19 @@ namespace BlazingPizza
             return ((decimal)Size / (decimal)DefaultSize) * Special.BasePrice;
         }
 
+        public string GetFormattedBasePrice()
+        {
+            return "$" + GetBasePrice().ToString("0.00");
+        }
+
         public decimal GetTotalPrice()
         {
-            return GetBasePrice(); 
+            return GetBasePrice();
         }
 
         public string GetFormattedTotalPrice()
         {
-            return GetTotalPrice().ToString("0.00");
+            return "$" + GetTotalPrice().ToString("0.00");
         }
     }
 }
