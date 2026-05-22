@@ -456,7 +456,7 @@ form {
 }
 
 .dialog .topping-price::before {
-    
+    content: "";
 }
 
 .delete-topping {
